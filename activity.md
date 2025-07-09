@@ -7,6 +7,8 @@ layout: default
 <pre>
 +- July 2025
 |
++- - Obtained the freeCodeCamp Front End Development Libraries Certification. <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/front-end-development-libraries">fCC Badge Link</a>
+|
 +- - Started Monterey Phoenix Internship.
 |
 +- June 2025
