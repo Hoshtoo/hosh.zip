@@ -38,13 +38,13 @@ layout: default
 +- - Placed 17th in Spring 2025 National Cyber League Team Game. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_a-couple-weekends-ago-i-had-the-pleasure-activity-7325720327760605185-JGqd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- - Earned the Withstood the Test of Time HackTheBox Badge for owning 50 machines.
-|    <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/236">HackTheBox Badge Link</a>
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/236">HackTheBox Badge Link</a>
 |
 +- - Earned the Investigator in the Making HackTheBox Badge for solving 5 sherlocks.
-|    <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/242">HackTheBox Badge Link</a>
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/242">HackTheBox Badge Link</a>
 |
 +- - Earned the The Harder They Fall HackTheBox Badge for owning 50 challenges.
-|    <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/239">HackTheBox Badge Link</a>
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/239">HackTheBox Badge Link</a>
 |
 +- - Placed 1st at Summit CTF at Virginia Tech with my team, "#?". <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_this-last-weekend-i-had-the-great-opportunity-activity-7318411392032595968-uXRl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
@@ -65,11 +65,11 @@ layout: default
 |
 +- - Obtained the freeCodeCamp Responsive Web Design Certification. <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/responsive-web-design">fCC Badge Link</a>
 |
-+- - Earned the Comfortably Numb HackTheBox Badge for owning 20 machines. <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/235">HackTheBox Badge Link</a>
++- - Earned the Comfortably Numb HackTheBox Badge for owning 20 machines. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/235">HackTheBox Badge Link</a>
 |
-+- - Earned the The Danger Zone HackTheBox Badge for owning 20 challenges. <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/238">HackTheBox Badge Link</a>
++- - Earned the The Danger Zone HackTheBox Badge for owning 20 challenges. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/238">HackTheBox Badge Link</a>
 |
-+- - Achieved rank of Pro Hacker on HackTheBox. <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/216">HackTheBox Badge Link</a>
++- - Achieved rank of Pro Hacker on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/216">HackTheBox Badge Link</a>
 |
 +- - Placed 4th in Southeast Collegiate Computer Defense Competition Qualifiers.
 |
@@ -81,9 +81,9 @@ layout: default
 |
 +- December 2024
 |
-+- - Achieved rank of Hacker on HackTheBox. <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/215">HackTheBox Badge Link</a>
++- - Achieved rank of Hacker on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/215">HackTheBox Badge Link</a>
 |
-+- - Achieved rank of Script Kiddie on HackTheBox. <a target="_blank" href="https://www.hackthebox.com/achievement/badge/1986668/214">HackTheBox Badge Link</a>
++- - Achieved rank of Script Kiddie on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/214">HackTheBox Badge Link</a>
 |
 +- - Achieved the Presidential Honor Roll for the Fall 2024 Semester at UNG.
 |
