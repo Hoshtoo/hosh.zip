@@ -5,13 +5,17 @@ layout: default
 # Activity
 
 <pre>
++- August 2025
+|
++- - Completed NSA Experiential Tour internship program.
+|
 +- July 2025
 |
 +- - Obtained the freeCodeCamp Data Visualization Certification. <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/data-visualization">fCC Badge Link</a>
 |
 +- - Obtained the freeCodeCamp Front End Development Libraries Certification. <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/front-end-development-libraries">fCC Badge Link</a>
 |
-+- - Started Monterey Phoenix Internship.
++- - Started NSA Experiential Tour internship program.
 |
 +- June 2025
 |

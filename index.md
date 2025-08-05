@@ -6,7 +6,7 @@ layout: default
 
 My name is Hoshtoo, also known as Stew, and I am a Cybersecurity and Computer Science Dual Major at the University of North Georgia with a Minor in Intelligence and a 4.0 GPA. 
 
-I graduated High School with my Associate's degree in Computer Science in Spring 2024, and have been attending UNG since. I am currently the Red Team Captain for the CyberHawks at UNG and compete with the Blue Team as well. I have also served as the Operations Lead for the CyberHawks, and been an active participant in the Cyber Specialty Unit at UNG as a student presenter and coach. 
+I graduated High School with my Associate's degree in Computer Science in Spring 2024 and have been attending UNG since. I am currently the Red Team Captain for the CyberHawks at UNG and compete with the Blue Team as well. I have also served as the Operations Lead for the CyberHawks and been an active participant in the Cyber Specialty Unit at UNG as a student presenter and coach. 
 
 I am the rank of Pro Hacker on HackTheBox and hold certifications such as the GIAC Experienced Incident Handler, GIAC Certified Incident Handler, GIAC Security Essentials, GIAC Foundational Cybersecurity Technologies, CompTIA Security+, and plenty more. 
 
