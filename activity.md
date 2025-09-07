@@ -114,7 +114,7 @@ layout: default
 |
 +- June 2024
 |
-+- - Obtained GIAC Security Essentials Certification. <a target="_blank" href="https://www.credly.com/badges/7a3c0f48-1fbe-4256-b57e-d5d4dc828c7c/public_url">Credly Link</a>
++- - Obtained GIAC Security Essentials Certification. <a target="_blank" href="https://www.credly.com/badges/021aaf80-4b2a-4e8c-bcae-a86677a2f7ba/public_url">Credly Link</a>
 |
 +- May 2024
 |
@@ -135,6 +135,10 @@ layout: default
 +- July 2023
 |
 +- - Became the Future Business Leaders of America Cybersecurity National Champion.
+|
++- May 2023
+|
++- - Obtained CompTIA Security+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/47bba87f-a5f5-4f17-8c30-051fa1c117d6/public_url">Credly Link</a>
 |
 +- March 2023
 |
