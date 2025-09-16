@@ -5,9 +5,13 @@ layout: default
 # Activity
 
 <pre>
++- September 2025
+|
++- - Obtained the PCEP – Certified Entry-Level Python Programmer certification. <a target="_blank" href="https://www.credly.com/badges/527e367f-9cbf-4f8f-8029-dc9dac04579d/public_url">Credly Link</a>
+|
 +- August 2025
 |
-+- - Completed NSA Experiential Tour internship program.
++- - Completed DoD Experiential Tour internship program.
 |
 +- July 2025
 |
@@ -15,14 +19,14 @@ layout: default
 |
 +- - Obtained the freeCodeCamp Front End Development Libraries Certification. <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/front-end-development-libraries">fCC Badge Link</a>
 |
-+- - Started NSA Experiential Tour internship program.
++- - Started DoD Experiential Tour internship program.
 |
 +- June 2025
 |
 +- - Obtained the freeCodeCamp JavaScript Algorithms and Data Structures Certification.
 |    <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/javascript-algorithms-and-data-structures-v8">fCC Badge Link</a>
 |
-+- - Helped host Golrush Gauntlet CTF with UNG (created Reverse Engineering Challenges and secured
++- - Helped host Goldrush Gauntlet CTF with UNG (created Reverse Engineering Challenges and secured
 |    the funding for prizes from CompTIA). <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-ctf-cybercompetition-activity-7339529835993591808-rIQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- May 2025
