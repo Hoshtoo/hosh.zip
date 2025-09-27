@@ -7,6 +7,8 @@ layout: default
 <pre>
 +- September 2025
 |
++- - Published Obsidian blog post <a target="_blank" href="https://hosh.zip/obsidian">Post Link</a>
+|
 +- - Obtained the PCEP – Certified Entry-Level Python Programmer certification. <a target="_blank" href="https://www.credly.com/badges/527e367f-9cbf-4f8f-8029-dc9dac04579d/public_url">Credly Link</a>
 |
 +- August 2025

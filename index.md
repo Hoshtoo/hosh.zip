@@ -14,6 +14,8 @@ My main focuses have been on Penetration Testing and Reverse Engineering, but I 
 
 If you want to keep up with what I am up to, you can find my recent activity [here](./activity)
 
+Also, if you are interested in learning about a tool that I love, check out my blog post, [Why I use Obsidian every day, and why you probably should too](./obsidian)
+
 ## Also, below are links to some of my profiles:
 * [LinkedIn](https://www.linkedin.com/in/stewart-cates-80403a186)
 * [Github](https://github.com/Hoshtoo)
