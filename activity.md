@@ -5,6 +5,26 @@ layout: default
 # Activity
 
 <pre>
++- November 2025
+|
++- - Placed 37th in the Department of Energy's Cyberforce Competition.
+|
++- - Obtained CompTIA Linux+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/d3056744-91b2-4b5c-b8be-bacea9a154a2/public_url">Credly Link</a>
+|
++- - Placed 9th in Fall 2025 National Cyber League Team Game in the Experienced Bracket.
+|
++- October 2025
+|
++- - Started working as a Student Peer Tutor at the University of North Georgia's in-house tutoring center.
+|
++- - Placed 621st in Fall 2025 National Cyber League Individual Game.
+|
++- - Competed in the 2025 Collegiate Penetration Testing Competition at the Central region.
+|
++- - Placed 1st in  the 2025 Citadel Cyber Siege Competition.
+|
++- - Started working at Abricto Security LLC as a Remote Junior Penetration Tester
+|
 +- September 2025
 |
 +- - Published Obsidian blog post <a target="_blank" href="https://hosh.zip/obsidian">Post Link</a>
