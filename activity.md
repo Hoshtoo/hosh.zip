@@ -9,6 +9,8 @@ layout: default
 |
 +- - Placed 37th in the Department of Energy's Cyberforce Competition.
 |
++- - Became President of the CyberHawks cybersecurity club at the University of North Georgia. 
+|
 +- - Obtained CompTIA Linux+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/d3056744-91b2-4b5c-b8be-bacea9a154a2/public_url">Credly Link</a>
 |
 +- - Placed 9th in Fall 2025 National Cyber League Team Game in the Experienced Bracket.
