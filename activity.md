@@ -5,6 +5,22 @@ layout: default
 # Activity
 
 <pre>
++- February 2026
+|
++- - Began working on UNG's Annual Goldrush Gauntlet Competition.
+|
++- January 2026
+|
++- - Obtained CompTIA Security Analytics Professional – CSAP Stackable Certification. <a target="_blank" href="https://www.credly.com/badges/0c002416-4449-4efa-ac30-485108222a39/public_url">Credly Link</a>
+|
++- - Obtained CompTIA CySA+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/a02c89c9-e76a-4f68-9af7-7860fd554b2d/public_url">Credly Link</a>
+|
++- - Started OffSec PEN-200 Course.
+|
++- December 2025
+|
++- - Started D-Wave Intro to Quantum Computing Course
+|
 +- November 2025
 |
 +- - Placed 37th in the Department of Energy's Cyberforce Competition.
