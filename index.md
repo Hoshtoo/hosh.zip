@@ -20,6 +20,6 @@ Also, if you are interested in learning about my second brain, check out my blog
 * [LinkedIn](https://www.linkedin.com/in/stewart-cates)
 * [Github](https://github.com/Hoshtoo)
 * ~~My writeup blog, [pwnroot.com](https://pwnroot.com)~~ Work in progress
-* ~~My programming blog, [skids.dev](https://skids.dev)~~ Work in progress
+
 
 * * *
