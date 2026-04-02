@@ -7,6 +7,13 @@ layout: default
 <pre>
 +- March 2026
 |
++- - Earned the Gunslinger HackTheBox Badge for completing 100% of the Dante Pro Lab.
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/73">HackTheBox Badge Link</a>
+|
++- - Served as the Team Captain of the Inaugaral National Championship Team at the Department of War Chief Information Officer Cyber Workforce Competition. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-redteam-ctf-ugcPost-7444543271093190657-RBA6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
+|
++- - Placed 6th in the 2026 Southeast Collegiate Computer Defense Competition regional competition. <a target="_blank" href="https://www.linkedin.com/posts/parker-scott26_i-recently-had-the-opportunity-to-compete-ugcPost-7441980924147359744-h6bE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">Teammate's LinkedIn Post Link</a>
+|
 +- - Started SANS SEC598: AI and Security Automation for Red, Blue, and Purple Teams Course.
 |
 +- February 2026
