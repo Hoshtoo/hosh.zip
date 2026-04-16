@@ -7,16 +7,19 @@ layout: default
 <pre>
 +- April 2026
 |
-+- - Placed 1st in the Policy Module at the NSA Cyber Exercise and served as Captain of UNG's A Team in the premier Cyber Combat Exercise module.
++- - Placed 1st in the Policy Module at the NSA Cyber Exercise and served as
+|    Captain of UNG's A Team in the premier Cyber Combat Exercise module.
 |
 +- March 2026
 |
 +- - Earned the Gunslinger HackTheBox Badge for completing 100% of the Dante Pro Lab.
 |    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/73">HackTheBox Badge Link</a>
 |
-+- - Served as the Team Captain of the Inaugaral National Championship Team at the Department of War Chief Information Officer Cyber Workforce Competition. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-redteam-ctf-ugcPost-7444543271093190657-RBA6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
++- - Served as the Team Captain of the Inaugaral National Championship Team at the Department of War
+|    Chief Information Officer Cyber Workforce Competition. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-redteam-ctf-ugcPost-7444543271093190657-RBA6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
 |
-+- - Placed 6th in the 2026 Southeast Collegiate Computer Defense Competition regional competition. <a target="_blank" href="https://www.linkedin.com/posts/parker-scott26_i-recently-had-the-opportunity-to-compete-ugcPost-7441980924147359744-h6bE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">Teammate's LinkedIn Post Link</a>
++- - Placed 6th in the 2026 Southeast Collegiate Computer Defense Competition regional competition.
+|    <a target="_blank" href="https://www.linkedin.com/posts/parker-scott26_i-recently-had-the-opportunity-to-compete-ugcPost-7441980924147359744-h6bE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">Teammate's LinkedIn Post Link</a>
 |
 +- - Started SANS SEC598: AI and Security Automation for Red, Blue, and Purple Teams Course.
 |
@@ -26,13 +29,15 @@ layout: default
 |
 +- - Completed D-Wave Intro to Quantum Computing Course. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_happy-to-share-i-have-recently-earned-a-couple-activity-7427575095361183745-juBw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
-+- - Placed 7th in 2026 Southeast Collegiate Computer Defense Competition Qualifiers. <a target="_blank" href="https://www.linkedin.com/posts/james-goble-25396723b_seccdc-ctf-hawkem-activity-7427806921933627393-pgo-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
++- - Placed 7th in 2026 Southeast Collegiate Computer Defense Competition Qualifiers.
+|    <a target="_blank" href="https://www.linkedin.com/posts/james-goble-25396723b_seccdc-ctf-hawkem-activity-7427806921933627393-pgo-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- - Began working on UNG's Annual Goldrush Gauntlet Competition. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_ggctf-ctf-cybersecurity-activity-7434067152351059968-EIEE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- January 2026
 |
-+- - Obtained CompTIA Security Analytics Professional – CSAP Stackable Certification. <a target="_blank" href="https://www.credly.com/badges/0c002416-4449-4efa-ac30-485108222a39/public_url">Credly Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_happy-to-share-i-have-recently-earned-a-couple-activity-7427575095361183745-juBw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
++- - Obtained CompTIA Security Analytics Professional – CSAP Stackable Certification.
+|    <a target="_blank" href="https://www.credly.com/badges/0c002416-4449-4efa-ac30-485108222a39/public_url">Credly Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_happy-to-share-i-have-recently-earned-a-couple-activity-7427575095361183745-juBw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- - Obtained CompTIA CySA+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/a02c89c9-e76a-4f68-9af7-7860fd554b2d/public_url">Credly Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_happy-to-share-i-have-recently-earned-a-couple-activity-7427575095361183745-juBw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
@@ -48,7 +53,8 @@ layout: default
 |
 +- - Placed 37th in the Department of Energy's Cyberforce Competition.
 |
-+- - Became President of the CyberHawks cybersecurity club at the University of North Georgia. <a target="_blank" href="https://www.instagram.com/p/DQ-qsOXDfS0/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==">CyberHawks Instagram Post Link</a>
++- - Became President of the CyberHawks cybersecurity club at the University of North Georgia.
+|    <a target="_blank" href="https://www.instagram.com/p/DQ-qsOXDfS0/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==">CyberHawks Instagram Post Link</a>
 |
 +- - Obtained CompTIA Linux+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/d3056744-91b2-4b5c-b8be-bacea9a154a2/public_url">Credly Link</a>
 |
@@ -56,11 +62,13 @@ layout: default
 |
 +- October 2025
 |
-+- - Started working as a Student Peer Tutor at the University of North Georgia's in-house tutoring center.
++- - Started working as a Student Peer Tutor at the University of North Georgia's
+|    in-house tutoring center.
 |
 +- - Placed 621st in Fall 2025 National Cyber League Individual Game.
 |
-+- - Competed in the 2025 Collegiate Penetration Testing Competition at the Central region. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_this-semester-i-had-the-fantastic-opportunity-activity-7403913151383236608-1n_8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
++- - Competed in the 2025 Collegiate Penetration Testing Competition at the Central region.
+|    <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_this-semester-i-had-the-fantastic-opportunity-activity-7403913151383236608-1n_8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- - Placed 1st in the 2025 Citadel Cyber Siege Competition. <a target="_blank" href="https://www.linkedin.com/posts/college-of-science-mathematics-at-the-university-of-north-georgia_ung-ung-cybersecurity-ugcPost-7384612068148035584-X3WO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
