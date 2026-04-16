@@ -5,6 +5,10 @@ layout: default
 # Activity
 
 <pre>
++- April 2026
+|
++- - Placed 1st in the Policy Module at the NSA Cyber Exercise and served as Captain of UNG's A Team in the premier Cyber Combat Exercise module.
+|
 +- March 2026
 |
 +- - Earned the Gunslinger HackTheBox Badge for completing 100% of the Dante Pro Lab.
