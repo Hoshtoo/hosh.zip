@@ -7,6 +7,16 @@ layout: default
 <pre>
 +- April 2026
 |
++- - Placed 2nd in Spring 2026 National Cyber League Team Game in the Experienced Bracket. <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7457080203341778944/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
++- - Completed the Unintended HackTheBox Mini Pro Lab. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-ctf-redteam-ugcPost-7452583410033659905-TFHf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
++- - Placed 1st in Virginia Tech's Hack the Airport Summit CTF. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-ctf-summitctf-ugcPost-7452384498010484736-fgQ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
++- - Completed the P.O.O. HackTheBox Mini Pro Lab. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-ctf-redteam-ugcPost-7452583410033659905-TFHf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
++- - Completed the Puppet HackTheBox Mini Pro Lab. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-ctf-redteam-ugcPost-7452583410033659905-TFHf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
 +- - Placed 1st in the Policy Module at the NSA Cyber Exercise and served as
 |    Captain of UNG's A Team in the premier Cyber Combat Exercise module.
 |
