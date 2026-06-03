@@ -5,6 +5,12 @@ layout: default
 # Activity
 
 <pre>
++- May 2026
+|
++- - Started DoD Pre Core Experiential Tour internship program.
+|
++- - Graduated Magna Cum Laude from the University of North Georgia with a Bachelor's Degree in Cybersecurity.
+|
 +- April 2026
 |
 +- - Placed 2nd in Spring 2026 National Cyber League Team Game in the Experienced Bracket. 
@@ -93,7 +99,7 @@ layout: default
 |
 +- August 2025
 |
-+- - Completed DoD Experiential Tour internship program.
++- - Completed DoD Monterey Phoenix Experiential Tour internship program.
 |
 +- July 2025
 |
@@ -101,7 +107,7 @@ layout: default
 |
 +- - Obtained the freeCodeCamp Front End Development Libraries Certification. <a target="_blank" href="https://www.freecodecamp.org/certification/Hoshtoo/front-end-development-libraries">fCC Badge Link</a>
 |
-+- - Started DoD Experiential Tour internship program.
++- - Started DoD Monterey Phoenix Experiential Tour internship program.
 |
 +- June 2025
 |
