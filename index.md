@@ -16,6 +16,8 @@ If you want to keep up with what I am up to, you can find my recent activity [he
 
 Also, if you are interested in learning about my second brain, check out my blog post, [Why I use Obsidian every day, and why you probably should too](./obsidian)
 
+Play my idle game, [Lawnmower Game](./lawnmower-game/)
+
 ## Also, below are links to some of my profiles:
 * [LinkedIn](https://www.linkedin.com/in/stewart-cates)
 * [Github](https://github.com/Hoshtoo)

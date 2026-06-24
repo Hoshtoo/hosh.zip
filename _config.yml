@@ -3,3 +3,5 @@ description: I am Stewart Cates, also known as Hoshtoo, and this is my portfolio
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+include:
+  - lawnmower-game

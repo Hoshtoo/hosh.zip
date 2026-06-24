@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawnmower Game V2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <header class="header">
+        <h1 class="title">Lawnmower Game <span class="version">V2</span></h1>
+        <div class="stats-bar">
+            <div class="stat">
+                <span class="stat-label">Cash</span>
+                <span id="money" class="stat-value">$0</span>
+            </div>
+            <div class="stat">
+                <span class="stat-label">Mulch</span>
+                <span id="mulch" class="stat-value accent">0</span>
+            </div>
+            <div class="stat">
+                <span class="stat-label">Value Bonus</span>
+                <span id="valueBonus" class="stat-value">0%</span>
+            </div>
+            <div class="stat">
+                <span class="stat-label">Growth Bonus</span>
+                <span id="growthBonus" class="stat-value">1x</span>
+            </div>
+            <div id="superTicks" class="super-ticks"></div>
+        </div>
+    </header>
+
+    <main class="game-layout">
+        <aside class="panel panel-stages">
+            <h2 class="panel-title">Stages</h2>
+            <p class="panel-subtitle">Visit or unlock any stage</p>
+            <nav id="stageMenu" class="stage-menu" aria-label="Stage selection"></nav>
+        </aside>
+
+        <aside class="panel panel-upgrades">
+            <h2 class="panel-title">Run Upgrades</h2>
+            <p class="panel-subtitle" id="stageName">Grass Field</p>
+            <div class="upgrade-list">
+                <div class="upgrade-row">
+                    <button class="btn btn-upgrade" id="upgradetickRate" type="button">Tick Rate — $5</button>
+                    <span class="upgrade-detail" id="texttickRate">1000 ms</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-upgrade" id="upgradegrowthRate" type="button">Growth Rate — $10</button>
+                    <span class="upgrade-detail" id="textgrowthRate">4 growth/tick</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-upgrade" id="upgrademachineSpeed" type="button">Speed — $50</button>
+                    <span class="upgrade-detail" id="textmachineSpeed">1 tiles/tick</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-upgrade" id="upgrademachineSize" type="button">Size — $75</button>
+                    <span class="upgrade-detail" id="textmachineSize">1x1</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-upgrade" id="upgradetileSize" type="button">Tile Size — $150</button>
+                    <span class="upgrade-detail" id="texttileSize">10x10</span>
+                </div>
+            </div>
+        </aside>
+
+        <section class="canvas-section">
+            <div class="canvas-wrap">
+                <canvas id="lawn" width="500" height="500">Your browser does not support canvas.</canvas>
+            </div>
+            <p id="desc" class="flavor-text">Wow this lawn grows fast.</p>
+            <p id="totalMowed" class="total-mowed">Total Grass Mowed: 0</p>
+        </section>
+
+        <aside class="panel panel-mulch">
+            <h2 class="panel-title">Permanent Upgrades</h2>
+            <p class="panel-subtitle">Spend mulch — persists through prestige</p>
+            <div class="upgrade-list" id="mulchUpgradeList">
+                <div class="upgrade-row">
+                    <button class="btn btn-mulch" id="mulchHarvestBoost" type="button">Harvest Boost — 5 mulch</button>
+                    <span class="upgrade-detail" id="textHarvestBoost">+0% value (Lv 0)</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-mulch" id="mulchHeadStart" type="button">Head Start — 10 mulch</button>
+                    <span class="upgrade-detail" id="textHeadStart">+0 starting speed (Lv 0)</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-mulch" id="mulchGreenThumb" type="button">Green Thumb — 8 mulch</button>
+                    <span class="upgrade-detail" id="textGreenThumb">+0 growth/tick (Lv 0)</span>
+                </div>
+                <div class="upgrade-row">
+                    <button class="btn btn-mulch" id="mulchEfficiency" type="button">Efficiency — 15 mulch</button>
+                    <span class="upgrade-detail" id="textEfficiency">-0% upgrade costs (Lv 0)</span>
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <footer class="footer">
+        <button class="btn btn-prestige" id="prestigeButton" type="button">Prestige for 0 Mulch</button>
+    </footer>
+</body>
+</html>
