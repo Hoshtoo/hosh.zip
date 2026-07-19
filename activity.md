@@ -5,11 +5,25 @@ layout: default
 # Activity
 
 <pre>
++- June 2026
+|
++- - Completed DoD Pre Core Experiential Tour internship program. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-offensivesecurity-reverseengineering-ugcPost-7484310028221399040-yWg2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
++- - Obtained GIAC AI Security Automation Engineer Certification. <a target="_blank" href="https://www.credly.com/badges/b169feed-29b6-46ef-a660-64c706fac84b/public_url">Credly Link</a>  <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-ai-securityautomation-share-7484679782480150528-UsAo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
++- - Eared the Respected by AWS HackTheBox Badge for completing 100% of the AWS Fortress. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/163">HackTheBox Badge Link</a>
+|
++- - Earned the Survived the Storm HackTheBox Badge for completing 100% of the Zephyr Pro Lab. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/173">HackTheBox Badge Link</a>
+|
++- - Built my HackTheBox XP Discord bot. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-discord-nodejs-share-7468709490910105600-Py_M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> <a target="_blank" href="https://github.com/Hoshtoo/htb-xp-discord-bot">Github Source Code Link</a>
+|
 +- May 2026
 |
 +- - Started DoD Pre Core Experiential Tour internship program.
 |
 +- - Graduated Magna Cum Laude from the University of North Georgia with a Bachelor's Degree in Cybersecurity.
+|
++- - Earned the Respected by Jet HackTheBox Badge for completing 100% of the Jet Fortress. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/40">HackTheBox Badge Link</a>
 |
 +- April 2026
 |
