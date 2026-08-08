@@ -7,9 +7,11 @@ layout: default
 <pre>
 +- July 2026
 |
-+- - Obtained OffSec Certified Professional (OSCP+) Certification. <a target="_blank" href="https://credentials.offsec.com/e45bcbf3-256c-4dca-8b1d-40b69f9d2c9e#acc.EGBPXo26">OffSec Credentials Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_oscp-offensivesecurity-penetrationtesting-share-7488411085524484096--yfG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
++- - Obtained OffSec Certified Professional (OSCP+) Certification.
+|    <a target="_blank" href="https://credentials.offsec.com/e45bcbf3-256c-4dca-8b1d-40b69f9d2c9e#acc.EGBPXo26">OffSec Credentials Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_oscp-offensivesecurity-penetrationtesting-share-7488411085524484096--yfG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
 |
-+- - Reached 100 rooted machines on HackTheBox, including rooting the active Insane difficulty machine Cobblestone. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-cybersecurity-penetrationtesting-share-7485352979139563520-ZpIb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
++- - Reached 100 rooted machines on HackTheBox, including rooting the active Insane
+|    difficulty machine Cobblestone. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-cybersecurity-penetrationtesting-share-7485352979139563520-ZpIb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- June 2026
 |
@@ -17,9 +19,11 @@ layout: default
 |
 +- - Obtained GIAC AI Security Automation Engineer Certification. <a target="_blank" href="https://www.credly.com/badges/b169feed-29b6-46ef-a660-64c706fac84b/public_url">Credly Link</a>  <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-ai-securityautomation-share-7484679782480150528-UsAo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
-+- - Earned the Respected by AWS HackTheBox Badge for completing 100% of the AWS Fortress. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/163">HackTheBox Badge Link</a>
++- - Earned the Respected by AWS HackTheBox Badge for completing 100% of the AWS Fortress.
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/163">HackTheBox Badge Link</a>
 |
-+- - Earned the Survived the Storm HackTheBox Badge for completing 100% of the Zephyr Pro Lab. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/173">HackTheBox Badge Link</a>
++- - Earned the Survived the Storm HackTheBox Badge for completing 100% of the Zephyr Pro Lab.
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/173">HackTheBox Badge Link</a>
 |
 +- - Built my HackTheBox XP Discord bot. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-discord-nodejs-share-7468709490910105600-Py_M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> <a target="_blank" href="https://github.com/Hoshtoo/htb-xp-discord-bot">Github Source Code Link</a>
 |
@@ -27,9 +31,11 @@ layout: default
 |
 +- - Started DoD Pre Core Experiential Tour internship program.
 |
-+- - Graduated Magna Cum Laude from the University of North Georgia with a Bachelor's Degree in Cybersecurity.
++- - Graduated Magna Cum Laude from the University of North Georgia with a Bachelor's
+|    Degree in Cybersecurity.
 |
-+- - Earned the Respected by Jet HackTheBox Badge for completing 100% of the Jet Fortress. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/40">HackTheBox Badge Link</a>
++- - Earned the Respected by Jet HackTheBox Badge for completing 100% of the Jet Fortress. 
+|    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/40">HackTheBox Badge Link</a>
 |
 +- April 2026
 |
