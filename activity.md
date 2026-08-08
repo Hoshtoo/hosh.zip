@@ -5,13 +5,19 @@ layout: default
 # Activity
 
 <pre>
++- July 2026
+|
++- - Obtained OffSec Certified Professional (OSCP+) Certification. <a target="_blank" href="https://credentials.offsec.com/e45bcbf3-256c-4dca-8b1d-40b69f9d2c9e#acc.EGBPXo26">OffSec Credentials Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_oscp-offensivesecurity-penetrationtesting-share-7488411085524484096--yfG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
+|
++- - Reached 100 rooted machines on HackTheBox, including rooting the active Insane difficulty machine Cobblestone. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_hackthebox-cybersecurity-penetrationtesting-share-7485352979139563520-ZpIb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
+|
 +- June 2026
 |
 +- - Completed DoD Pre Core Experiential Tour internship program. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-offensivesecurity-reverseengineering-ugcPost-7484310028221399040-yWg2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
 +- - Obtained GIAC AI Security Automation Engineer Certification. <a target="_blank" href="https://www.credly.com/badges/b169feed-29b6-46ef-a660-64c706fac84b/public_url">Credly Link</a>  <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-ai-securityautomation-share-7484679782480150528-UsAo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
-+- - Eared the Respected by AWS HackTheBox Badge for completing 100% of the AWS Fortress. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/163">HackTheBox Badge Link</a>
++- - Earned the Respected by AWS HackTheBox Badge for completing 100% of the AWS Fortress. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/163">HackTheBox Badge Link</a>
 |
 +- - Earned the Survived the Storm HackTheBox Badge for completing 100% of the Zephyr Pro Lab. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/173">HackTheBox Badge Link</a>
 |
@@ -46,7 +52,7 @@ layout: default
 +- - Earned the Gunslinger HackTheBox Badge for completing 100% of the Dante Pro Lab.
 |    <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/73">HackTheBox Badge Link</a>
 |
-+- - Served as the Team Captain of the Inaugaral National Championship Team at the Department of War
++- - Served as the Team Captain of the Inaugural National Championship Team at the Department of War
 |    Chief Information Officer Cyber Workforce Competition. <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_cybersecurity-redteam-ctf-ugcPost-7444543271093190657-RBA6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
 |
 +- - Placed 6th in the 2026 Southeast Collegiate Computer Defense Competition regional competition.
@@ -96,7 +102,7 @@ layout: default
 +- - Started working as a Student Peer Tutor at the University of North Georgia's
 |    in-house tutoring center.
 |
-+- - Placed 621st in Fall 2025 National Cyber League Individual Game.
++- - Placed 621st in the Fall 2025 National Cyber League Individual Game.
 |
 +- - Competed in the 2025 Collegiate Penetration Testing Competition at the Central region.
 |    <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_this-semester-i-had-the-fantastic-opportunity-activity-7403913151383236608-1n_8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
@@ -173,9 +179,9 @@ layout: default
 |
 +- - Earned the Comfortably Numb HackTheBox Badge for owning 20 machines. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/235">HackTheBox Badge Link</a>
 |
-+- - Earned the The Danger Zone HackTheBox Badge for owning 20 challenges. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/238">HackTheBox Badge Link</a>
++- - Earned The Danger Zone HackTheBox Badge for owning 20 challenges. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/238">HackTheBox Badge Link</a>
 |
-+- - Achieved rank of Pro Hacker on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/216">HackTheBox Badge Link</a>
++- - Achieved the rank of Pro Hacker on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/216">HackTheBox Badge Link</a>
 |
 +- - Placed 4th in Southeast Collegiate Computer Defense Competition Qualifiers.
 |
@@ -187,9 +193,9 @@ layout: default
 |
 +- December 2024
 |
-+- - Achieved rank of Hacker on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/215">HackTheBox Badge Link</a>
++- - Achieved the rank of Hacker on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/215">HackTheBox Badge Link</a>
 |
-+- - Achieved rank of Script Kiddie on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/214">HackTheBox Badge Link</a>
++- - Achieved the rank of Script Kiddie on HackTheBox. <a target="_blank" href="https://labs.hackthebox.com/achievement/badge/1986668/214">HackTheBox Badge Link</a>
 |
 +- - Achieved the Presidential Honor Roll for the Fall 2024 Semester at UNG.
 |
@@ -205,7 +211,7 @@ layout: default
 |
 +- - Became the Operations Lead (Vice President) of the CyberHawks at UNG.
 |
-+- - Awarded membership of the Cyber Leadership Development Program cohort at UNG.
++- - Awarded membership in the Cyber Leadership Development Program cohort at UNG.
 |
 +- August 2024
 |
@@ -248,11 +254,11 @@ layout: default
 |
 +- March 2023
 |
-+- - Became a Future Business Leaders of America Networking Infrastructures State Winner.
++- - Became a Future Business Leaders of America Networking Infrastructure State Winner.
 |
 +- July 2022
 |
-+- - Achieved rank of Eagle Scout.
++- - Achieved the rank of Eagle Scout.
 </pre>
 
 * * *
