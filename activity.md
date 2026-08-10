@@ -7,6 +7,14 @@ layout: default
 <pre>
 +- July 2026
 |
++- - Obtained CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification.
+|    <a target="_blank" href="https://www.credly.com/badges/e0b7df62-4f0f-43ff-ad6a-3401fd4e5385/public_url">Credly Link</a>
+|
++- - Obtained CompTIA Network Security Professional – CNSP Stackable Certification.
+|    <a target="_blank" href="https://www.credly.com/badges/b5c9e7da-aad4-49a3-8db5-3bab347dc5f4/public_url">Credly Link</a>
+|
++- - Obtained CompTIA PenTest+ ce Certification. <a target="_blank" href="https://www.credly.com/badges/e514f5f5-6a0a-447e-a9f2-ea0f0af74a8c/public_url">Credly Link</a>
+|
 +- - Obtained OffSec Certified Professional (OSCP+) Certification.
 |    <a target="_blank" href="https://credentials.offsec.com/e45bcbf3-256c-4dca-8b1d-40b69f9d2c9e#acc.EGBPXo26">OffSec Credentials Link</a> <a target="_blank" href="https://www.linkedin.com/posts/stewart-cates_oscp-offensivesecurity-penetrationtesting-share-7488411085524484096--yfG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a> 
 |
