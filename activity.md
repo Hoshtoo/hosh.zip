@@ -5,6 +5,17 @@ layout: default
 # Activity
 
 <pre>
++- September 2026
+|
++- - Granted membership to the oldest and largest high-IQ society in the world, Mensa.
+|    <a target="_blank" href="https://www.credly.com/badges/4a1a2c7e-dbe7-44b2-a12b-b01f403603d4/public_url">Credly Link</a>
+|
++- August 2026
+|
++- - Started my Master's in Computer Science at the University of North Georgia.
+|
++- - Started working at Armadin as a Red Team Operator.
+|
 +- July 2026
 |
 +- - Obtained CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification.
@@ -123,7 +134,7 @@ layout: default
 |
 +- - Placed 1st in the 2025 Citadel Cyber Siege Competition. <a target="_blank" href="https://www.linkedin.com/posts/college-of-science-mathematics-at-the-university-of-north-georgia_ung-ung-cybersecurity-ugcPost-7384612068148035584-X3WO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvJmwQBKeZ3F4HnsiKpSYXLmNpPnOQGwcM">LinkedIn Post Link</a>
 |
-+- - Started working at Abricto Security LLC as a Remote Junior Penetration Tester.
++- - Started working at Abricto Security LLC as a Penetration Tester.
 |
 +- September 2025
 |
