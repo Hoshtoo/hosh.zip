@@ -5,7 +5,24 @@ layout: default
 # Activity
 
 <pre>
++- November 2026
+|
++- - Discovered and reported CVE-2026-127302, a reflected XSS vulnerability
+|    in Joomla! CMS (CVSS 4.0: 8.6 High).
+|    <a target="_blank" href="https://developer.joomla.org/security-centre/1120-20261122-core-xss-in-com-associations-association-view.html">Joomla Security Advisory Link</a>  <a target="_blank" href="https://www.cve.org/CVERecord?id=CVE-2026-127302">CVE Record Link</a>
+|
++- - Passed the CyberHawks presidency to my successor at the
+|    University of North Georgia. <a target="_blank" href="https://lnkd.in/p/erHhs6Z6">New President's LinkedIn Post</a>
+|
 +- September 2026
+|
++- - Placed 1st with my UNG team at the AWS Generative AI Challenge
+|    at Norwich University. <a target="_blank" href="https://ung.edu/news/articles/2026/10/students-take-top-honors-at-aws-ai-event.php">UNG News Link</a>
+|
++- - Earned the GIAC Experienced Cybersecurity Specialist (GX-CS)
+|    certification and GIAC Security Professional (GSP) designation. <a target="_blank" href="https://www.credly.com/badges/4cc00cfe-a4a1-4bea-a478-96d811335d4c/public_url">Credly Link</a>
+|
++- - Earned the GIAC Penetration Tester (GPEN) certification. <a target="_blank" href="https://www.credly.com/badges/1f7c3223-fb63-4f44-a69b-c35223d0e926/public_url">Credly Link</a>
 |
 +- - Granted membership to the oldest and largest high-IQ society in the world, Mensa.
 |    <a target="_blank" href="https://www.credly.com/badges/4a1a2c7e-dbe7-44b2-a12b-b01f403603d4/public_url">Credly Link</a>
